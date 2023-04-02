@@ -1,6 +1,6 @@
 <template>
   <div id="nav" class="nav">
-    <router-link to="/" class="brand">Real World Events</router-link>
+    <router-link to="/" class="brand">CommunityEvents</router-link>
     <nav>
       <div class="navitem">
         <router-link
@@ -30,12 +30,7 @@ export default {};
   justify-content: space-between;
   align-items: center;
   height: 70px;
-  background: linear-gradient(
-    90deg,
-    #1ffab8 1.9%,
-    #3aba82 16.37%,
-    #0dee8d 100%
-  );
+  background: #292d2b;
 }
 .navitem {
   padding-right: 50px;

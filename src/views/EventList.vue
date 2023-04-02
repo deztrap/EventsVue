@@ -27,3 +27,15 @@ export default {
   },
 };
 </script>
+<style scoped>
+h1 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  letter-spacing: 0.05em;
+
+  color: #2e2d30;
+}
+</style>
