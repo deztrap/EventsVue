@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <h1>create option is only for premium users</h1>
   </div>
 </template>

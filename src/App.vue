@@ -91,7 +91,7 @@ small {
   font-size: 80%;
 }
 .container {
-  padding: 0 300px 300px;
+  padding: 30px 300px 300px;
 }
 .eyebrow {
   font-size: 16px;
@@ -111,7 +111,8 @@ small {
   color: rgba(0, 0, 0, 0.5);
 }
 .-shadow {
-  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.13);
+  border: 1px solid #e0e2e2;
+  box-shadow: 4px 4px 10px rgba(184, 179, 179, 0.13);
 }
 .badge {
   display: inline-flex;

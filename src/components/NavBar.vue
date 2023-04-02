@@ -36,7 +36,6 @@ export default {};
     #3aba82 16.37%,
     #0dee8d 100%
   );
-  margin: 0%;
 }
 .navitem {
   padding-right: 50px;
