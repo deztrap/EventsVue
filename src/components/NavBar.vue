@@ -37,7 +37,7 @@ export default {};
 }
 .nav > .brand {
   font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  font-weight: 100;
   font-size: 1.5em;
   color: #ffffff;
   text-decoration: none;
@@ -50,7 +50,7 @@ export default {};
   text-decoration: none;
 }
 .nav .nav-item.router-link-exact-active {
-  color: #ffffff;
+  color: #39b982;
   border-bottom: solid 2px #39b982;
 }
 </style>
